@@ -47,3 +47,4 @@ After all items are selected, the system generates the final bill displaying the
 
 FLOWCHART
 
+<img width="1024" height="1536" alt="Image" src="https://github.com/user-attachments/assets/66c29504-7869-43e9-a4be-5b0383f2a63e" />
